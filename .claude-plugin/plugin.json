@@ -1,0 +1,26 @@
+{
+  "name": "gta6-meme-narrator",
+  "description": "Narrated meme shorts from gameplay or stream clips (GTA 6 or any game): a cold open, a rewind, a deadpan narrator who gets everything wrong on purpose, tracked arrows, freeze frames, memes and sound effects, rendered as 1080x1920 with a free local voice.",
+  "version": "1.0.0",
+  "author": {
+    "name": "FlashFX"
+  },
+  "homepage": "https://github.com/gabrielebolognese/gta6-meme-narrator",
+  "repository": "https://github.com/gabrielebolognese/gta6-meme-narrator",
+  "license": "MIT",
+  "keywords": [
+    "gta6",
+    "gta",
+    "meme",
+    "shorts",
+    "tiktok",
+    "reels",
+    "narrator",
+    "video-editing",
+    "gaming",
+    "streamer",
+    "ffmpeg",
+    "skill"
+  ],
+  "icon": ".claude-plugin/icon.png"
+}

@@ -1,0 +1,212 @@
+{
+ "layout": {
+  "facecam": [
+   2,
+   41,
+   21,
+   59
+  ],
+  "focus_x": 50
+ },
+ "wrong_name": "Taylor Swift",
+ "start_s": 0.1,
+ "end_s": 41.9,
+ "hook_from_s": 9,
+ "hook_to_s": 12.2,
+ "hook_text": "SHE ONLY SAID HI",
+ "hook_line": "When Taylor Swift was playing GTA 6",
+ "narration": [
+  {
+   "at_s": 0.5,
+   "text": "Taylor Swift just finished carpooling with her best friend Gerald."
+  },
+  {
+   "at_s": 7.3,
+   "text": "Now she spots Linda, the neighborhood's most dangerous hugger."
+  },
+  {
+   "at_s": 11,
+   "text": "Linda chose to nap. Taylor respects naps."
+  },
+  {
+   "at_s": 19.9,
+   "text": "This is Brenda. Brenda saw nothing. Brenda is legally a lamp now."
+  },
+  {
+   "at_s": 24.4,
+   "text": "Then Taylor gave Steve a free back massage."
+  },
+  {
+   "at_s": 28.6,
+   "text": "Steve wanted a nap too. It's contagious."
+  },
+  {
+   "at_s": 32.4,
+   "text": "She's checking his pockets for his emotional support gum."
+  },
+  {
+   "at_s": 35.6,
+   "text": "Grandpa Frank wants a dance battle. Bad idea, Frank."
+  },
+  {
+   "at_s": 38.8,
+   "text": "Taylor jogs back to the tour bus. Flawless show."
+  }
+ ],
+ "pointers": [
+  {
+   "from_s": 8,
+   "to_s": 10.6,
+   "label": "LINDA",
+   "track": [
+    [
+     8.2,
+     63,
+     35
+    ],
+    [
+     9.2,
+     72,
+     58
+    ],
+    [
+     10.2,
+     60,
+     57
+    ]
+   ]
+  },
+  {
+   "from_s": 14,
+   "to_s": 16.4,
+   "label": "TAYLOR SWIFT",
+   "track": [
+    [
+     14.2,
+     13,
+     50
+    ],
+    [
+     15.2,
+     12,
+     48
+    ],
+    [
+     16.2,
+     12,
+     47
+    ]
+   ]
+  },
+  {
+   "from_s": 17,
+   "to_s": 21.4,
+   "label": "THE WITNESS",
+   "track": [
+    [
+     17.2,
+     60,
+     37
+    ],
+    [
+     18.2,
+     61,
+     43
+    ],
+    [
+     19.2,
+     63,
+     43
+    ],
+    [
+     20.2,
+     62,
+     46
+    ],
+    [
+     21.2,
+     61,
+     41
+    ]
+   ]
+  },
+  {
+   "from_s": 29,
+   "to_s": 30.6,
+   "label": "STEVE",
+   "track": [
+    [
+     29.2,
+     57,
+     45
+    ],
+    [
+     30.2,
+     45,
+     88
+    ]
+   ]
+  }
+ ],
+ "memes": [],
+ "sfx": [
+  {
+   "at_s": 10.6,
+   "sfx": "boom"
+  },
+  {
+   "at_s": 13.2,
+   "sfx": "buzzer"
+  },
+  {
+   "at_s": 18.6,
+   "sfx": "pop"
+  },
+  {
+   "at_s": 23.4,
+   "sfx": "buzzer"
+  },
+  {
+   "at_s": 25.2,
+   "sfx": "boing"
+  },
+  {
+   "at_s": 30.1,
+   "sfx": "boom"
+  },
+  {
+   "at_s": 33.1,
+   "sfx": "pop"
+  },
+  {
+   "at_s": 37,
+   "sfx": "boom"
+  },
+  {
+   "at_s": 41,
+   "sfx": "airhorn"
+  }
+ ],
+ "freezes": [
+  {
+   "at_s": 9.3,
+   "seconds": 1,
+   "x": 66,
+   "y": 50
+  },
+  {
+   "at_s": 29.3,
+   "seconds": 0.8,
+   "x": 55,
+   "y": 48
+  }
+ ],
+ "captions": [
+  [
+   19.0,
+   21.5
+  ]
+ ],
+ "title": "Taylor Swift's GTA 6 Era Is Not Okay 💀",
+ "summary": "A street scuffle in GTA roleplay: the player's character shoves a woman and a man, then walks off."
+}

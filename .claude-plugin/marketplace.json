@@ -1,0 +1,34 @@
+{
+  "name": "gta6-meme-narrator",
+  "description": "One Claude Code skill: narrated meme shorts from gameplay and stream clips.",
+  "owner": {
+    "name": "FlashFX"
+  },
+  "plugins": [
+    {
+      "name": "gta6-meme-narrator",
+      "source": "./",
+      "description": "Narrated meme shorts from gameplay or stream clips (GTA 6 or any game): a cold open, a rewind, a deadpan narrator who gets everything wrong on purpose, tracked arrows, freeze frames, memes and sound effects, rendered as 1080x1920 with a free local voice.",
+      "version": "1.0.0",
+      "author": {
+        "name": "FlashFX"
+      },
+      "license": "MIT",
+      "category": "media",
+      "keywords": [
+        "gta6",
+        "gta",
+        "meme",
+        "shorts",
+        "tiktok",
+        "reels",
+        "narrator",
+        "video-editing",
+        "gaming",
+        "streamer",
+        "ffmpeg",
+        "skill"
+      ]
+    }
+  ]
+}

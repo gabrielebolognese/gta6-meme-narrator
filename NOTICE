@@ -1,0 +1,5 @@
+The bundled fonts (skills/gta6-meme-narrator/fonts/: Anton, Archivo Black) are under the SIL Open Font License; see the *-OFL.txt files there.
+The bundled sound effects (skills/gta6-meme-narrator/sfx/) are synthesized by scripts/make_sfx.py and dedicated to the public domain (CC0).
+The voice model, Kokoro, is installed separately by the user (Apache License 2.0); nothing of it is bundled.
+Not affiliated with, endorsed or sponsored by Rockstar Games or Take-Two Interactive. Grand Theft Auto and GTA are their trademarks, used
+here only to describe the kind of clips the skill is made for. Use only footage you have the right to use.

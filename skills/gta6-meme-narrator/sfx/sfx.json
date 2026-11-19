@@ -1,0 +1,132 @@
+{
+ "license": "CC0 (synthesized by scripts/make_sfx.py)",
+ "sounds": [
+  {
+   "id": "ding",
+   "tags": [
+    "ding",
+    "point",
+    "correct",
+    "reveal"
+   ],
+   "desc": "a bright bell ding (the arrows use it)",
+   "seconds": 1.2,
+   "file": "ding.wav"
+  },
+  {
+   "id": "boom",
+   "tags": [
+    "boom",
+    "impact",
+    "punchline",
+    "reaction"
+   ],
+   "desc": "a deep cinematic boom, the vine boom kind",
+   "seconds": 1.6,
+   "file": "boom.wav"
+  },
+  {
+   "id": "whoosh",
+   "tags": [
+    "whoosh",
+    "transition",
+    "swipe"
+   ],
+   "desc": "a whoosh",
+   "seconds": 1.0,
+   "file": "whoosh.wav"
+  },
+  {
+   "id": "scratch",
+   "tags": [
+    "record scratch",
+    "stop",
+    "wait",
+    "twist",
+    "rewind"
+   ],
+   "desc": "a record scratch",
+   "seconds": 0.65,
+   "file": "scratch.wav"
+  },
+  {
+   "id": "pop",
+   "tags": [
+    "pop",
+    "appear",
+    "small"
+   ],
+   "desc": "a short pop",
+   "seconds": 0.16,
+   "file": "pop.wav"
+  },
+  {
+   "id": "buzzer",
+   "tags": [
+    "wrong",
+    "fail",
+    "buzzer"
+   ],
+   "desc": "a wrong-answer buzzer",
+   "seconds": 0.75,
+   "file": "buzzer.wav"
+  },
+  {
+   "id": "boing",
+   "tags": [
+    "boing",
+    "bounce",
+    "silly",
+    "jump"
+   ],
+   "desc": "a cartoon boing",
+   "seconds": 0.9,
+   "file": "boing.wav"
+  },
+  {
+   "id": "glitch",
+   "tags": [
+    "glitch",
+    "error",
+    "bug",
+    "broken"
+   ],
+   "desc": "a digital glitch",
+   "seconds": 0.61,
+   "file": "glitch.wav"
+  },
+  {
+   "id": "sad-trombone",
+   "tags": [
+    "fail",
+    "sad",
+    "wah wah"
+   ],
+   "desc": "the sad trombone",
+   "seconds": 2.36,
+   "file": "sad-trombone.wav"
+  },
+  {
+   "id": "airhorn",
+   "tags": [
+    "hype",
+    "win",
+    "airhorn"
+   ],
+   "desc": "an air horn, three blasts",
+   "seconds": 1.35,
+   "file": "airhorn.wav"
+  },
+  {
+   "id": "dun-dun",
+   "tags": [
+    "dramatic",
+    "reveal",
+    "suspense"
+   ],
+   "desc": "dun dun duuun",
+   "seconds": 2.2,
+   "file": "dun-dun.wav"
+  }
+ ]
+}
